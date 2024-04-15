@@ -2,7 +2,7 @@
 This project is a DIY Android-controlled car built using an ESP32-CAM module and an L298N motor driver. With this setup, you can control the movements of the car using a simple Web App.
 
 # Table of Contents
-- Demo video.
+- Demo video[video](https://drive.google.com/file/d/1Vy95iQcaxRyIuZiSM3LOunIAFB8O_hdr/view?usp=drive_link)
 - Features.
 - Hardware Requirements
 - Software Requirements
