@@ -39,4 +39,7 @@ To build this project, you will need the following hardware components:
 - Power on the ESP32-CAM car and connect to its Wi-Fi network.
 - Open the url generated for web app on your device.
 - Start controlling the car using the on-screen buttons.
-- Enjoy the live video stream from the ESP32-CAM 
+- Enjoy the live video stream from the ESP32-CAM
+## Authors
+[Yashdeep Kumrawat](https://github.com/yashdeepkum)
+[Arpit Mourya](https://github.com/ArpitMourya)
