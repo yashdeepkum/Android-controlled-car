@@ -41,5 +41,5 @@ To build this project, you will need the following hardware components:
 - Start controlling the car using the on-screen buttons.
 - Enjoy the live video stream from the ESP32-CAM
 ## Authors
-[Yashdeep Kumrawat](https://github.com/yashdeepkum)
-[Arpit Mourya](https://github.com/ArpitMourya)
+- [Yashdeep Kumrawat](https://github.com/yashdeepkum)
+- [Arpit Mourya](https://github.com/ArpitMourya)
