@@ -30,7 +30,7 @@ To build this project, you will need the following hardware components:
 # Installation
 - Setting Up ESP32-CAM
 - Clone or download this repository.
-- Open the esp32_cam_control.ino file in Arduino IDE.
+- Open the [ESP32CAM_Car.ino](https://shields.io/) file in Arduino IDE.
 - Install the required libraries (mention libraries if any).
 - Configure the SSID and Password of your Wi-Fi network in the code.
 - Upload the code to your ESP32-CAM module.
